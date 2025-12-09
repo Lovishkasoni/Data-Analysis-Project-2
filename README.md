@@ -60,7 +60,6 @@ These were used to visualize:
   - Franchise investment behavior
   - Retained vs sold price dynamics
 
----
 
 ## 📊 Key Insight
 
